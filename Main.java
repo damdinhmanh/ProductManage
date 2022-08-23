@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //Create Store
         Store store = new Store();
-
+        //Test Push Dam.manh
         //Create Products
         Product product1 = new Product("001", "Milk", "Beverage", 100, 20000, "Bottle");
         Product product2 = new Product("002", "Wine", "Beverage", 20, 25000, "Bottle");
